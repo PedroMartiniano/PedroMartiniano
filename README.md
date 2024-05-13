@@ -12,10 +12,10 @@
     
   <img align="center" alt="Pedro-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Pedro-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Pedro-GOLANG" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
   <img align="center" alt="Pedro-PYTHON" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-DOCKER" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Pedro-FASTIFY" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original.svg">
-  <img align="center" alt="Pedro-EXPRESS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+   <img align="center" alt="Pedro-KAFKA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg">
   <img align="center" alt="Pedro-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Pedro-MYSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   
